@@ -1,1 +1,2 @@
 # PyPrac
+In this prac, I learnt a lot, mostly about how familiar you need to be with the website you are getting the information from and how to use the inspect option to identify the exact information you would like to fetch with web scraping. Another thing I learned is the importance of certain libraries/packages in Python and the major role they play in making your program advanced. Additionally, I learned about the importance of HTTP requests as the foundation of data communication on the web, which means you really have to make sure your methods are written correctly.
